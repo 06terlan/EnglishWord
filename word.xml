@@ -1,0 +1,1347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<words>
+  <word text="admit">
+    <means>etiraf etmek</means>
+    <c_answer>8</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="advanced">
+    <means>qabaqcil</means>
+    <c_answer>0</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="advantage">
+    <means>fayda</means>
+    <c_answer>1</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="advertisement">
+    <means>reklam</means>
+    <c_answer>0</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="affair">
+    <means>is</means>
+    <c_answer>1</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="almost">
+    <means>texminen</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="amuse">
+    <means>eylendirmek</means>
+    <c_answer>3</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="annoy">
+    <means>qiciqlandirmaq</means>
+    <c_answer>10</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="anxious">
+    <means>narahat</means>
+    <c_answer>0</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="argue">
+    <means>mubahise etmek</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="article">
+    <means>meqale</means>
+    <c_answer>0</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="arrange">
+    <means>teskil etmek</means>
+    <c_answer>2</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="certain">
+    <means>mueyyen</means>
+    <c_answer>11</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="fair">
+    <means>edaletli</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="admire">
+    <means>xoslanmaq</means>
+    <c_answer>1</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="advertise">
+    <means>reklam etmek</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="already">
+    <means>artiq</means>
+    <c_answer>11</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="prove">
+    <means>subut etmek</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="though">
+    <means>baxmayaraq</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="tile">
+    <means>kafel</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="adjacent">
+    <means>bitisik</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="elbette">
+    <means>certainly</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="xeberdar">
+    <means>aware</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="meqsed">
+    <means>purpose</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="mehdudlasdirmaq">
+    <means>restrict</means>
+    <c_answer>12</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="elcatan">
+    <means>available</means>
+    <c_answer>14</c_answer>
+    <w_answer>5</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="movcudluq">
+    <means>availability</means>
+    <c_answer>13</c_answer>
+    <w_answer>4</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="qiymetlendirmek">
+    <means>evaluate</means>
+    <c_answer>17</c_answer>
+    <w_answer>8</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="temin etmek(happen)">
+    <means>ensure</means>
+    <c_answer>12</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qeyd">
+    <means>enroll</means>
+    <c_answer>8</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="mehsul">
+    <means>yield</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="gunah">
+    <means>sin</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="nisanli kisi">
+    <means>fiance</means>
+    <c_answer>4</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="nisanli qadin">
+    <means>fiancee</means>
+    <c_answer>4</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="bulasixlar">
+    <means>dishes</means>
+    <c_answer>8</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="ilham vermek">
+    <means>inspire</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qavrayis">
+    <means>perception</means>
+    <c_answer>16</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="techiz etmek">
+    <means>equip</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="serbest (danismaq , bilmek)">
+    <means>fluent</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="hetda">
+    <means>even</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="icad etmek">
+    <means>invent</means>
+    <c_answer>11</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="daha cox,ileri">
+    <means>further</means>
+    <c_answer>14</c_answer>
+    <w_answer>5</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="ise girmek">
+    <means>get a job</means>
+    <c_answer>9</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="kofe icmeye cixmaq">
+    <means>go off coffee</means>
+    <c_answer>10</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="insanlarla yola getmek">
+    <means>get on with people</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="agarmaq">
+    <means>go grey</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="yayinmaq">
+    <means>avoid</means>
+    <c_answer>11</c_answer>
+    <w_answer>2</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="heves">
+    <means>enthusiasm</means>
+    <c_answer>21</c_answer>
+    <w_answer>12</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ne cox berk nedeki yumusaq">
+    <means>firm</means>
+    <c_answer>9</c_answer>
+    <w_answer>2</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="qisa (vaxt)">
+    <means>brief</means>
+    <c_answer>15</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="davam et">
+    <means>go ahead</means>
+    <c_answer>10</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="rehmete getmek">
+    <means>pass away</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="kardesler">
+    <means>siblings</means>
+    <c_answer>9</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="vicdanli">
+    <means>conscientious</means>
+    <c_answer>26</c_answer>
+    <w_answer>17</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tutqulu">
+    <means>passionate</means>
+    <c_answer>14</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="oxsamaq t">
+    <means>take after</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="resmi">
+    <means>formal</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="salamlamaq">
+    <means>greet</means>
+    <c_answer>14</c_answer>
+    <w_answer>6</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="tez-tez">
+    <means>frequently</means>
+    <c_answer>8</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="arabir">
+    <means>occasionally</means>
+    <c_answer>2</c_answer>
+    <w_answer>9</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="nadir">
+    <means>seldom</means>
+    <c_answer>11</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="cetinki">
+    <means>hardly ever</means>
+    <c_answer>9</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="indiye qeder">
+    <means>so far</means>
+    <c_answer>10</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="furset">
+    <means>opportunity</means>
+    <c_answer>8</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="birazdan">
+    <means>in a moment</means>
+    <c_answer>15</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bir anda">
+    <means>at a moment</means>
+    <c_answer>11</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="hazirda">
+    <means>at the moment</means>
+    <c_answer>10</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="bir muddet">
+    <means>for a while</means>
+    <c_answer>11</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="hemiselik yox olmaq">
+    <means>gone for good</means>
+    <c_answer>9</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="sadece">
+    <means>just</means>
+    <c_answer>7</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="texmin etmek">
+    <means>guess</means>
+    <c_answer>9</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="onumuzdeki on il erzinde">
+    <means>in the next ten years</means>
+    <c_answer>10</c_answer>
+    <w_answer>4</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="bir veya 2 gun icinde">
+    <means>in a day or two</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="uzun zaman sonra">
+    <means>a long time from now</means>
+    <c_answer>13</c_answer>
+    <w_answer>7</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="ince">
+    <means>thin</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="zar-zor">
+    <means>barely</means>
+    <c_answer>10</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="inilti">
+    <means>moan</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="oymek">
+    <means>boast</means>
+    <c_answer>8</c_answer>
+    <w_answer>2</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="sikayet">
+    <means>complain</means>
+    <c_answer>9</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="gorusmek">
+    <means>meet up</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="qesden">
+    <means>on purpose</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tesadufen (c)">
+    <means>by chance</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="vaxt olmadigi ucun tez islemek">
+    <means>work against the clock</means>
+    <c_answer>8</c_answer>
+    <w_answer>2</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="basi dertde (idiom)">
+    <means>in hot water</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="kimese uzucu nese demek">
+    <means>put my foot in it</means>
+    <c_answer>10</c_answer>
+    <w_answer>4</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="vaxtimiz yoxdur">
+    <means>run out of time</means>
+    <c_answer>9</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="reqabetci">
+    <means>competitive</means>
+    <c_answer>13</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qerarsiz">
+    <means>indecisive</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="kreativ">
+    <means>think outside the box</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="motivated">
+    <means>motive</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="hırslı">
+    <means>ambitious</means>
+    <c_answer>10</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="olduqca">
+    <means>quite</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qovmaq">
+    <means>fired</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yarismaq">
+    <means>compete</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="onermek">
+    <means>suggest</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="diqqeti yoneltmek">
+    <means>focus on</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="yeniden baxmaq">
+    <means>recap</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="bir sonraki adddim kecmek">
+    <means>moving on to the next point</means>
+    <c_answer>11</c_answer>
+    <w_answer>5</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="ozetlemek">
+    <means>sum up</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="buyuleyici (very interesting)">
+    <means>fasinating</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bitkin">
+    <means>exhausted</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="buyurun">
+    <means>here you are</means>
+    <c_answer>6</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="diger terefden">
+    <means>on the other hand</means>
+    <c_answer>9</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="hemde">
+    <means>as well as</means>
+    <c_answer>7</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sonuc">
+    <means>conclusion</means>
+    <c_answer>12</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="incelemek(veziyyet,problem)">
+    <means>look into</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sorusdurmaq">
+    <means>inquire</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="arasdirma(yeni bilgi)">
+    <means>research</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="arasdirma(hadise,cinayet,akt)(fiziki)">
+    <means>investigate</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="asilama">
+    <means>vaccination</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="lakin">
+    <means>however</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="bu arada">
+    <means>by the way</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="tavlamaq">
+    <means>chat up</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yola getmek">
+    <means>get on</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yuva qurmaq">
+    <means>settle down</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="dayandirmaq(emeliyyati)">
+    <means>go off</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bezenmek&amp;resmigeyinmek">
+    <means>dress up</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="paltarlari yoxlamaq">
+    <means>try on</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qeyri resmi geyinmek">
+    <means>dress down</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="heyecanlandirmaq">
+    <means>excite</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="dilxor">
+    <means>depressed</means>
+    <c_answer>10</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="vahimeye dusmek">
+    <means>terrify</means>
+    <c_answer>11</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="heyretlendirmek(very surprising)">
+    <means>astonish</means>
+    <c_answer>10</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="xeyal qirixligina ugratmaq">
+    <means>frustrate</means>
+    <c_answer>14</c_answer>
+    <w_answer>9</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="iyrenme">
+    <means>disgust</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sixinti">
+    <means>distress</means>
+    <c_answer>14</c_answer>
+    <w_answer>9</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tartismaq(resmi)">
+    <means>debate</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tartismaq(qresmi)">
+    <means>discuss</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="birsey deyil">
+    <means>not at all</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sakincasi yoxsa">
+    <means>would you mind</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="lengitmek">
+    <means>put off</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="diqqet cekmek">
+    <means>stand out</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="dayandirmaq(menbeyini)">
+    <means>cut off</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="iptal">
+    <means>call off</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="mesq elemek">
+    <means>work out</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qaristirmaq">
+    <means>confuse</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ucuza satmaq">
+    <means>hold a sale</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bagis toplamaq">
+    <means>raise money</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="memnun etmek">
+    <means>satisfy</means>
+    <c_answer>9</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="subhelenmek">
+    <means>doubt</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="utandirmaq">
+    <means>embarrass</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ayrilmaq">
+    <means>split up</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="daginiqliq">
+    <means>mess</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="nisanli">
+    <means>engaged</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bacarmaq">
+    <means>achieve</means>
+    <c_answer>7</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qabiliyyet">
+    <means>aptitude</means>
+    <c_answer>12</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="basqalarina qarismadan yasamaq">
+    <means>keep myself to myself</means>
+    <c_answer>13</c_answer>
+    <w_answer>8</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bas belasi">
+    <means>nuisance</means>
+    <c_answer>8</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tanimaq(g)">
+    <means>get to know</means>
+    <c_answer>6</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tecili">
+    <means>immediate</means>
+    <c_answer>10</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="oz isimle mesgul olmaq">
+    <means>mind my own business</means>
+    <c_answer>11</c_answer>
+    <w_answer>11</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="maraqlanmaq(k)">
+    <means>keen on</means>
+    <c_answer>5</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="problem">
+    <means>issue</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="gozlenilmeden qonax gelmek">
+    <means>pop over</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="borc vermek">
+    <means>lend</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="borc goturmek">
+    <means>borrow</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ohdesinden gelmek">
+    <means>cope with</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ayrilmaq(elden cixarmaq)">
+    <means>part with</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="bir seye baslamaq">
+    <means>lead in</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="aglinada saxlamaq">
+    <means>stick in</means>
+    <c_answer>8</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="rahatina bax">
+    <means>be my guest</means>
+    <c_answer>11</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yemeye devet elemek">
+    <means>help yourself</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="rahatla">
+    <means>put your feet up</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="guvenmek">
+    <means>rely on</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ferqine varmaq">
+    <means>realise</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="eslinde">
+    <means>actually</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="inkisaf (d)">
+    <means>development</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="inqilab">
+    <means>revulation</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yayilmaq">
+    <means>spread</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tesir">
+    <means>impact</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="xilas olmaq">
+    <means>get rid of</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="kabus">
+    <means>nightmarish</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="mecbur etmek">
+    <means>compel</means>
+    <c_answer>12</c_answer>
+    <w_answer>8</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ferz elemek">
+    <means>suppose</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sakinles">
+    <means>take it easy</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tercih eliyerdim">
+    <means>i would rather</means>
+    <c_answer>3</c_answer>
+    <w_answer>3</w_answer>
+    <ask>0</ask>
+  </word>
+  <word text="ixtisas">
+    <means>qualification</means>
+    <c_answer>10</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="cirakliq">
+    <means>apprenticeship</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="evvela">
+    <means>for one thing</means>
+    <c_answer>10</c_answer>
+    <w_answer>6</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="soyledigim gibi">
+    <means>having said that</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tessuf ki">
+    <means>unfortunately</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="partlatmaq">
+    <means>burst</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="surunmek">
+    <means>creep</means>
+    <c_answer>7</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="canini qurtarmaq">
+    <means>flee</means>
+    <c_answer>12</c_answer>
+    <w_answer>8</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qadagan etmek">
+    <means>forbid</means>
+    <c_answer>8</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="diqqetli dusunmek">
+    <means>consider</means>
+    <c_answer>12</c_answer>
+    <w_answer>8</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="assignment">
+    <means>tapsiriq</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="deal">
+    <means>anlasma</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="survey">
+    <means>anket</means>
+    <c_answer>8</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="estimate">
+    <means>texmin etmek</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="approximate">
+    <means>texmini</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="confidence">
+    <means>guven</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="insurance">
+    <means>sigorta</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="sort out">
+    <means>hell etmek</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="entertainment">
+    <means>eylence</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="breed">
+    <means>uremek</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="supply">
+    <means>tedaruk</means>
+    <c_answer>9</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="gostermek,belirlemek">
+    <means>indicate</means>
+    <c_answer>8</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="mueyyenlesdirmek">
+    <means>determine</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="satis yeri">
+    <means>outlet</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="torpaq">
+    <means>soil</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ozellik">
+    <means>feature</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="menzere">
+    <means>landscape</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="randevu">
+    <means>appointment</means>
+    <c_answer>6</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="deqiq">
+    <means>accurate</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ifade etmek">
+    <means>express</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="acimasiz">
+    <means>inexorable</means>
+    <c_answer>11</c_answer>
+    <w_answer>7</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="hesabi odemek (bahali)">
+    <means>foot the bill</means>
+    <c_answer>5</c_answer>
+    <w_answer>1</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="duzunu desek">
+    <means>indeed</means>
+    <c_answer>4</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="tam odemek">
+    <means>pay up</means>
+    <c_answer>2</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="mikrob">
+    <means>germ</means>
+    <c_answer>5</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="buna gore">
+    <means>therefore</means>
+    <c_answer>7</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="menimsemek">
+    <means>adopt</means>
+    <c_answer>4</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="heveslendirmek">
+    <means>encourage</means>
+    <c_answer>7</c_answer>
+    <w_answer>5</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="azaltmaq">
+    <means>reduce</means>
+    <c_answer>2</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="siddetli">
+    <means>severe</means>
+    <c_answer>5</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="desteklemek">
+    <means>promote</means>
+    <c_answer>6</c_answer>
+    <w_answer>4</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="cox gerekli">
+    <means>essential</means>
+    <c_answer>5</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="belece">
+    <means>thus</means>
+    <c_answer>4</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="yaxinlasma,yaxinlasmaq">
+    <means>approach</means>
+    <c_answer>2</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="ovlamaq">
+    <means>prey on</means>
+    <c_answer>2</c_answer>
+    <w_answer>0</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="deyismez">
+    <means>immutable</means>
+    <c_answer>2</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="qarsiliginda">
+    <means>in return</means>
+    <c_answer>3</c_answer>
+    <w_answer>2</w_answer>
+    <ask>1</ask>
+  </word>
+  <word text="belli">
+    <means>obvious</means>
+    <c_answer>4</c_answer>
+    <w_answer>3</w_answer>
+    <ask>1</ask>
+  </word>
+</words>

@@ -1,0 +1,12 @@
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\bin\Debug\EnglishWords.exe
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\bin\Debug\EnglishWords.pdb
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csprojResolveAssemblyReference.cache
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.Form1.resources
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.Properties.Resources.resources
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.csproj.GenerateResource.Cache
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.exe
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.pdb
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\bin\Debug\words.xml
+c:\users\a.tarlan\documents\visual studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.Add.resources
+C:\Users\a.tarlan\Documents\Visual Studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.FSetting.resources
+C:\Users\a.tarlan\Documents\Visual Studio 2015\Projects\EnglishWords\EnglishWords\obj\Debug\EnglishWords.FQuestion.resources
